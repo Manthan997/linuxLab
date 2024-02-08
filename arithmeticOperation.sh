@@ -40,8 +40,9 @@ while true; do
             read -p "Enter dividend: " num1
             read -p "Enter divisor: " num2
 	    # result=$((num1 / num2))
+	    echo "Result: "
 	    result= printf "%f \n" $((10**3 * $num1/$num2))e-3
-	    echo "Result: $result"
+
             ;;
         5)
             # Exit
