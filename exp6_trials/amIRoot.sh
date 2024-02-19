@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # EXP ID
-# > 4.6 
+# > 6.b 
 
 # AIM
 # > check if the user is root user
