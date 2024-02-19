@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # EXP ID
-# >  7.1
+# > incomplete 7.1
 
 # AIM
-# > demo command line args positional 
+# > demo command line args positional and using flags loopsand others
 
 # CODE
 echo "Displaying Command line arguments"
@@ -15,5 +15,4 @@ echo "Arg2: $2"
 echo "Arg3: $3"
 echo "DONE!!"
 echo 
-
 

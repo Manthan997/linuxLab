@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # EXP ID
-# > 6
+# > 6.a
 
 # AIM
 # > to clean the log files
