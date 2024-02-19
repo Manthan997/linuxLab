@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # EXP ID
-# > 4.4
+# > 5c
 
 # AIM
 # > automate system updates and upgrades

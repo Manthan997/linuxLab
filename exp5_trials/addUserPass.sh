@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # EXP ID
-# > exp4 4.2
+# > exp4 5a
 
 # AIM
 # >Write a shell script to add user and password on Linux system
