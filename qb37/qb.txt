@@ -1,0 +1,96 @@
+1 Write a shell script to show various system configuration like currently logged user
+and his logname, your current shell, home directory, operating system type, 
+currentpath setting, current working directory, show currently logged number of 
+users, show memory information, Hard disk information like size of hard-disk, 
+cache memory, model etc, and file system mounted.
+2 Write a shell script to add user and password on Linux system.
+3 Write a shell script to print last login details.
+4 Write a shell script to upgrade and cleans the system automatically instead of doing
+it manually.
+5 a.Write a shell script to delete all log files present inside your var/log directory
+b. Write script to check if user is root user
+c. Write script to print number of files and folders
+d. Write Script to Create Directories
+6 Write a script that accepts the hostname and IP address as command-line
+arguments and adds them to the /etc/hosts file.
+7 Write shell script to Swap to numbers without using 3rd variable
+8 Write a shell script that delete all lines containing a specified word
+9 write a shell script to find the factorial of given integer
+10 Configuration of DNS Server with Domain Name.
+11 Configuration of NFS File server and transfer files to a windows client.
+12 Configuration of Web Server.
+13 Configuration of FTP server and transfer files to demonstrate the working of the
+same.
+14 Write script to demonstrate all command line argument
+15 a. Write script to perform following String Operation
+ Find Length of String
+ Find and Replace String
+ To Concatenate String
+ Reversing the string
+16 Write to check whether entered string is palindrome or not
+17 Write shells script to display menu for Celsius to Fahrenheit and Fahrenheit to 
+Celsius, Read the temperature accordingly and convert.
+18 Write Shell Script to find square and cube of the numbers between 1 to 10
+Print number , Square and Cube of the numbers
+19 Write Bash script to display name and a greeting message with some information
+20 Write shell Script to display Following information using environment variables
+like SHELL,USER,PWD,PATH,LANG,HOME,BASH_VERSION,BASH_VERSINFO
+HOSTNAME,UID etc
+21 Write Menu Drive program using Shell script to Perform Following operation like 
+Addition, Subtraction , multiplication, Division, remainder
+22 Write Shell Script to find maximum of three numbers, read number from user
+23 Write Shell script using for loop to generate fibonacci Series till the limit specified 
+by user
+24 Write shell script to perform Following String Operations
+1. Checks if the given string operand size is non-zero
+2. Checks if the given string operand size is zero
+3. Checks if the value of two operands are equal 
+4. Checks if the value of two operands are not equal 
+5. Checks if str is not the empty string; if it is empty
+25 Write Shell Script to perform Following Operations(Any 10)
+1. Checks if file is a block special file
+2. Checks if file is a character special file
+3. Checks if file is a directory
+4. Checks if file is an ordinary file as opposed to a directory or special file
+5. Checks if file has its set group ID (SGID) bit set
+6. Checks if file has its sticky bit set
+7. Checks if file is a named pipe
+8. Checks if file descriptor is open and associated with a terminal
+9. Checks if file has its Set User ID (SUID) bit set
+10. Checks if file is readable
+11. Checks if file is writable
+12. Checks if file is executable
+13. Checks if file has size greater than 0
+14. Checks if file exists
+26 Write Bash script find factorial of all the number using Loop, number is to be read 
+from user
+27 Write bash script to find sum of square of n numbers, read n from user
+28 Write Bash script to find whether character is vowel , consonant, Special Character 
+or Digit use switch case
+29 Write Bash script to find whether character is vowel , consonant, Special Character 
+or Digit use if else
+30 Write a shell program to check if a given string is a palindrome or not. 
+31 Write shell script to demonstrate Command Line Argument
+i.Positional Parameters
+ii.Using Flag
+iii.Using Loops with $@ – Loop Constructs
+iv. Use of $#,$*,$$,$? And S!
+32 Write shell script to demonstrate Sort command with different sort command 
+option
+sort –b,sort –r,sort –o,sort –n,sort –M,sort –u,sort -ksort -t SEP
+33 Write shell script to display number of character, words and Lines in text file using 
+wc Command
+34 Write shell script to find reverse of 5 digit number using while loop
+35 Write shell script to generate prime number between limit specified by user using 
+for loop
+36 Write shell script to Generate sum of N numbers. Read N from user and until loop
+37 Write shell script to display 4x4 matrix and read data from user from keyboard. 
+Use for Loop
+Note
+1 ls,wc,pwd,man,cut,useradd,userdel,passwd,grep,vi,cut,sort,diff,ip,date,head,tail,cp,
+mv,rm,rmdir,cat,tac
+banner,sort,nano,unmask, chmod, chown,chgrp,df,du,kill,tar, ps,less, history,sudo, 
+su,locate, clear
+2 Student should know file structure of Linux
+3. Linux Booting Sequence 
+4. All practical Questions written in Book
