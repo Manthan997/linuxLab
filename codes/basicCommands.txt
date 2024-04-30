@@ -1,0 +1,25 @@
+# BASIC COMMANDS LIST
+
+    • ls
+    • mkdir
+    • cd
+    • rmdir
+    • rm
+    • wc
+    • pwd
+    • clear
+    • man
+    • chmod
+
+    • mv
+    • cp
+    • cat
+    • head
+    • tail
+
+    • find
+    • more 
+    • less
+    • history
+    • touch
+

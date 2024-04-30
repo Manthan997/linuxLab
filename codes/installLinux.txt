@@ -1,0 +1,19 @@
+# STEPS TO INSTALL UBUNTU OS ON MACHINE	
+
+1. download ubuntu image(.iso file)
+2. make bootable usb drive using Balena etcher
+	a. download and start balena etcher
+	b. select the downloaded .iso file of ubuntu
+	c. select the pendrive from available drives
+	d. click flash. remove the usb drive upon flashing
+3. turn off the computer and plug in usb drive
+4. turn on the machine. when booting, press the F12 key(different for different motherboard manufacturers)
+5. select the booting media as the ubuntu usb drive from the options
+6. press F10 to save and exit(check for save and exit. this maybe different)
+7. now the computer will boot into live mode. select the option of install ubuntu
+8. select keyboards and default configs. then at installation type prompt, select install alongside windows if it's the new lenovo pc's cause the windows there is a legitimate licenced OS. if that's the old pc ask sir if he want's windows ? 
+	yes-> install alongside windows
+	no-> erase disk and install
+9. then click in install now.
+10. when it'a done REBOOT THE SYSTEM.
+11. appreciae the GOD for this moment and life cause millions of cells of your body have to synchronize to inhale that breath you just took. sit calm. you got this!
