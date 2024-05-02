@@ -23,7 +23,7 @@
 |16	|palindrome			|
 |17	|celFaran			|
 |18	|		Square_Cube	|
-|19	|			|
+|19	|		Greeting	|
 |20	|			|
 |21	|			|
 |22     |maxOf3                       |
