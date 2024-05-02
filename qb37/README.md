@@ -24,7 +24,7 @@
 |17	|celFaran			|
 |18	|		Square_Cube	|
 |19	|		Greeting	|
-|20	|			|
+|20	|		System_Info	|
 |21	|			|
 |22     |maxOf3                       |
 |23     |fiboWhile                       |
