@@ -18,11 +18,27 @@
 |11	|			|
 |12	|			|
 |13	|			|
-|14	|			|
-|15	|			|
-|16	|			|
-|17	|			|
+|14	|CLarg_flag, CLarg_loop, CLarg_positional		|
+|15	|operationString	|
+|16	|palindrome			|
+|17	|celFaran			|
 |18	|			|
 |19	|			|
 |20	|			|
-|	|			|
+|21	|			|
+|22     |maxOf3                       |
+|23     |fiboWhile                       |
+|24     |                       |
+|25     |                       |
+|26     |fact                       |
+|27     |                       |
+|28     |                       |
+|29     |                       |
+|30     |palindrome                       |
+|31     |CLarg_flag, CLarg_loop, CLarg_positional		|
+|32     |                       |
+|33     |                       |
+|34     |revNum                       |
+|35     |prime                       |
+|36     |nSum                       |
+|37     |matrix                       |
