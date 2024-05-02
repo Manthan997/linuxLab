@@ -28,7 +28,7 @@
 |21	|		MenuDriven	|
 |22     |maxOf3                       |
 |23     |fiboWhile                       |
-|24     |                       |
+|24     |    String_Operations                   |
 |25     |                       |
 |26     |fact                       |
 |27     |     SumOfSquares and SumOfSquaresFirst_n                  |
