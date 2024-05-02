@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # EXP ID
-# > incomplete 7.1
+# > 14b and 31.1
 
 # AIM
 # > demo command line args positional and using flags loopsand others
