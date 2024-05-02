@@ -31,7 +31,7 @@
 |24     |                       |
 |25     |                       |
 |26     |fact                       |
-|27     |                       |
+|27     |     SumOfSquares and SumOfSquaresFirst_n                  |
 |28     |                       |
 |29     |                       |
 |30     |palindrome                       |
