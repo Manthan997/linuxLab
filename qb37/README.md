@@ -22,7 +22,7 @@
 |15	|operationString	|
 |16	|palindrome			|
 |17	|celFaran			|
-|18	|			|
+|18	|		Square_Cube	|
 |19	|			|
 |20	|			|
 |21	|			|
