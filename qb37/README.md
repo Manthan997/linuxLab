@@ -37,7 +37,7 @@
 |30     |palindrome                       |
 |31     |CLarg_flag, CLarg_loop, CLarg_positional		|
 |32     |                       |
-|33     |                       |
+|33     |     Number_Of_Char_Word_Line (Provide filename as arguement)                  |
 |34     |revNum                       |
 |35     |prime                       |
 |36     |nSum                       |
