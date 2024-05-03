@@ -1,0 +1,65 @@
+1. NFS
+Server:
+1. sudo apt install nfs-kernel-server
+2. sudo mkdir -p /mnt/nfs-SERVER_SHARE
+3. sudo chown -R nobody:nogroup /mnt/nfs-SERVER_SHARE/
+4. sudo chmod 777 /mnt/nfs-SERVER_SHARE/
+5. sudo nano /etc/exports
+/mnt/nfs-SERVER_SHARE 192.168.0.0/16(rw,sync,no_subtree_check)
+6. sudo exportfs -a
+7. sudo systemctl restart nfs-kernel-server
+8. sudo ufw allow from 192.168.0.0/16 to any port nfs
+9. sudo ufw enable
+10. sudo ufw status
+Client
+1. sudo apt install nfs-common
+2. sudo mkdir -p/mnt/nfs-CLIENT_SHARE
+3. sudo mount <server_ip-add>:/mnt/nfs-SERVER_SHARE /mnt/nfs-CLIENT_SHARE
+Then go to those directories and test the connection
+—————————————————————————————————————————
+2. SAMBA
+1. sudo apt-get update
+2. sudo apt install samba
+3. whereis samba
+4. mkdir /home/<USER>/sambashare/
+5. sudo nano /etc/samba/smb.conf
+[sambashare]
+comment = Samba on Ubuntu
+path = /home/<USER>/sambashare
+read only = no
+browsable = yes
+6. sudo service smbd restart
+7. sudo ufw allow samba
+8. sudo smbpasswd -a <USER>
+9. hostname -I //for IP ADDRESS
+—————————————————————————————————————————
+3. FTP
+Server:
+1. sudo apt-get install vsftpd
+2. sudo nano /etc/vsftpd.conf
+write_enable=YES
+3. sudo service vsftpd restart
+4. sudo adduser ftpuser and set password
+5. cd /home/ftpuser and create files
+6. sudo chmod 777 ftpuser
+7. get IP Address of Server
+Client:
+1. open new terminal
+2. mkdir client
+3. and create some files
+4. connect to server using
+ftp <ip>
+5. Enter username and password
+6. To get file use get <file_name>
+For multiple files use mget <file_name>
+7. Same for uploading put <file_name>
+mput <file_name1>
+8. To terminate connection use bye
+—————————————————————————————————————————
+4. APACHE
+1. sudo apt-get update. .
+2. sudo apt install apache2
+3. sudo systemctl status apache2
+4. Go to browser search for localhost
+5. To edit webpage
+cd /var/www/html/
